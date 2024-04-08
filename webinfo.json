@@ -1,7 +1,7 @@
 {
-  "Name": "EasyBlog",
-  "Description": "\uD83D\uDDFDto be a human",
-  "AuthorName": "NilTor",
-  "BaseHref": "/EasyBlog/",
-  "Domain": "https://aterdev.github.io/EasyBlog/"
+  "Name": "luokajiao Blog", // Blog name, displayed at the top navigation of the homepage
+  "Description": " for code learning",// Description, displayed in the middle of the top of the homepage
+  "AuthorName": "Zhu", // Author name, displayed in the blog list
+  "BaseHref": "/codeblog/", // Subdirectory
+  "Domain": "" // Domain name, used for generating sitemap, leave blank if not generated
 }
