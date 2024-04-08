@@ -2,5 +2,5 @@
   "Name": "luokajiao Blog", // Blog name, displayed at the top navigation of the homepage
   "Description": " for code learning",// Description, displayed in the middle of the top of the homepage
   "AuthorName": "Zhu", // Author name, displayed in the blog list
-  "Domain": "" // Domain name, used for generating sitemap, leave blank if not generated
+  "Domain": "http://luokajiao.top" // Domain name, used for generating sitemap, leave blank if not generated
 }
